@@ -1,5 +1,5 @@
 # config.py
-GEMINI_API_KEY = "AIzaSyDR9IqO82afdtLP_eu662ZwORDfEQ9yWOE"
+GEMINI_API_KEY = "api-key"
 
 # Qdrant setup
 QDRANT_URL = "http://localhost:6333"
